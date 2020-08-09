@@ -9,6 +9,6 @@ How to install OpenCV:
 
 2.pip install matplotlib
 
-3.pip install opencv-python
+3.pip install py-opencv
 
 1) and 2) are required for OpenCV projects
